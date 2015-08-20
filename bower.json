@@ -1,0 +1,17 @@
+{
+  "name": "bowerrotate",
+  "version": "0.0.1",
+  "authors": [
+    "Dan Collier <dcollier@connectionseducation.com>"
+  ],
+  "description": "blah",
+  "main": "rotate.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
